@@ -6,7 +6,9 @@ To access my FCC profile: https://www.freecodecamp.org/ricardocruz
 
 
 ## Responsive Web Design Projects
+
 <br/>
+
 ### Tribute Page
 https://codepen.io/ricardomcruz/pen/VRzjxV
 
@@ -26,16 +28,21 @@ https://codepen.io/ricardomcruz/pen/KEjmBK
 https://www.freecodecamp.org/certification/ricardocruz/responsive-web-design
 
 <br/>
+
 <br/>
 
 ## Javascript Algorithms and Data Structures Certification
+
 <br/>
 
 <br/>
+
 <br/>
 
 ## Front End Libraries
+
 <br/>
+
 ### Random Quote Machine
 https://codepen.io/ricardomcruz/pen/GaaLOJ
 
