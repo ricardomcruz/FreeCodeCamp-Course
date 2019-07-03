@@ -30,3 +30,15 @@ https://www.freecodecamp.org/certification/ricardocruz/responsive-web-design
 
 
 ## Javascript Algorithms and Data Structures Certification
+
+
+## Front End Libraries
+
+### Random Quote Machine
+https://codepen.io/ricardomcruz/pen/GaaLOJ
+
+### Markdown Previewer
+
+
+### Drum Machine
+https://codepen.io/ricardomcruz/pen/PraPyp
