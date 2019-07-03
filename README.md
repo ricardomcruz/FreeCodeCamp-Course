@@ -23,5 +23,10 @@ https://codepen.io/ricardomcruz/pen/vPzZVP
 ### Personal Portfolio Webpage
 https://codepen.io/ricardomcruz/pen/KEjmBK
 
-### certification
+### Certification
 https://www.freecodecamp.org/certification/ricardocruz/responsive-web-design
+
+
+
+
+## Javascript Algorithms and Data Structures Certification
