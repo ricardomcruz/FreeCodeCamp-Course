@@ -51,3 +51,7 @@ https://codepen.io/ricardomcruz/pen/GbBZgd?editors=0100
 
 ### Drum Machine
 https://codepen.io/ricardomcruz/pen/PraPyp
+
+### Javascript Calculator
+https://codepen.io/ricardomcruz/pen/GbXoKo
+
